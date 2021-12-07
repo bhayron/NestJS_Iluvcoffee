@@ -11,7 +11,7 @@ import { CoffeesModule } from './coffees/coffees.module';
       host: 'localhost',
       port: 5432,
       username: 'postgres',
-      password: 'password',
+      password: 'pass123',
       database: 'postgres',
       autoLoadEntities: true,
       synchronize: true,
